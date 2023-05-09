@@ -135,7 +135,7 @@ module.exports = {
 
 	logging: {
 		console: {
-			level: "debug"
+			level: "inspect"
 		},
 
 		file: {
@@ -155,7 +155,7 @@ module.exports = {
 			enabled: false,
 			host: null,
 			port: null,
-			level: "debug",
+			level: "inspect",
 			program: "vem"
 		},
 
